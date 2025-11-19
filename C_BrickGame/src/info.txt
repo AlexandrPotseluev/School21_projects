@@ -1,0 +1,7 @@
+Tetris BrickGame v1.0
+
+1. To install:
+	- use command 'make install'
+	- installation will start to ./build directory
+2. To uninstall:
+	- use command 'make uninstall'

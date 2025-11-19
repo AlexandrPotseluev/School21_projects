@@ -1,0 +1,31 @@
+\input texinfo
+@documentencoding UTF-8
+
+@ifnottex
+@paragraphindent 0
+@end ifnottex
+@node Top
+@top Top
+
+Tetris BrickGame v1.0
+
+@enumerate 
+@item
+To install:
+@itemize
+@item
+use command 'make install'
+@item
+installation will start to ./build directory
+@end itemize
+
+@item
+To uninstall:
+@itemize
+@item
+use command 'make uninstall'
+@end itemize
+
+@end enumerate
+
+@bye
